@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Poochoon?</string>
+
+    <string-array name="History">
+        <item>1. In the Battle of Wandiwash, the English defeated ?</item>
+        <item>2. Indian Navy Act was passed on ?</item>
+        <item>3. The first president of the Republic of India was ?</item>
+        <item>4. The first ruler of Pala dynasty was ?</item>
+        <item>5. The first to establish regular trade with India was ?</item>
+        <item>A. the Dutch_B. the French_C. the Portuguese_D. None of these</item>
+        <item>A. 1921_B. 1925_C. 1927_D. 1930</item>
+        <item>A. V.V.Giri_B. Zakir Hussain_C. Dr.Radhakrishnan_D. Dr.Rajendra Prasad</item>
+        <item>A. Gopala_B. Dharmapala_C. Bhaskaravarman_D. None of these</item>
+        <item>A. Dutch_B. Portuguese_C. French_D. English</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="Sports">
+        <item>1. 2010 Commonwealth Games held in ?</item>
+        <item>2. The term“Googly” is associated with ?</item>
+        <item>3. Aga Khan Cup is awarded to ?</item>
+        <item>4. Krishna Poonia is associated with ?</item>
+        <item>5. In 1924 the first winter Olympics was held in ?</item>
+        <item>A. Canada_B. India_C. Britian_D. Malaysia</item>
+        <item>A. Cricket_B. Football_C. Badminton_D. Hockey</item>
+        <item>A. International Hockey_B. Asian Hockey_C. National Hockey in India_D. None of these</item>
+        <item>A. Football_B. Hockey_C. Chess_D. Athletics</item>
+        <item>A. Italy_B. France_C. Austria_D. Canada</item>
+        <item>B</item>
+        <item>A</item>
+        <item>C</item>
+        <item>D</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="Chemistry">
+        <item>1. The chemical used as a fixer in photography is</item>
+        <item>2. For which one of the following is the density maximum?</item>
+        <item>3. The alcohol used in power alcohol is</item>
+        <item>4. The reaction between methane and chlorine in diffused sunlight is</item>
+        <item>5. The alloy of aluminium used for making magnet is</item>
+        <item>A. sodium sulphate_B. borax_C. sodium thiosulphate_D. ammonium sulphate</item>
+        <item>A. Ice_B. Water_C. Benzene_D. Chloroform</item>
+        <item>A. propanol_B. ethyl alcohol_C. methyl alcohol_D. ethylene glycol</item>
+        <item>A. oxidation_B. reduction_C. polymerisation_D. substitution</item>
+        <item>A. duralumin_B. Y–alloy_C. alnico_D. aluminium bronze</item>
+        <item>C</item>
+        <item>B</item>
+        <item>B</item>
+        <item>D</item>
+        <item>C</item>
+    </string-array>
+
+    <string-array name="Geography">
+        <item>1. Gol Gumbaz is</item>
+        <item>2. Which is the Land of the Rising Sun?</item>
+        <item>3. Nangal is known for</item>
+        <item>4. The most populous city in the world is</item>
+        <item>5. Indian standard time is the local time of</item>
+        <item>A. Tamil Nadu_B. Karnataka_C. Maharashtra_D. Andhra Pradesh</item>
+        <item>A. China_B. Taiwan_C. Australia_D. Japan</item>
+        <item>A. Copper_B. Oil Refinery_C. Penicillin industry_D. Fertilizers</item>
+        <item>A. Paris_B. London_C. Tokyo_D. Peking</item>
+        <item>A. Chennai_B. Allahabad_C. Calcutta_D. Delhi</item>
+        <item>B</item>
+        <item>D</item>
+        <item>D</item>
+        <item>C</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="Arts">
+        <item>1. Apart from India, in which of the following two countries, Tamil is an official language?</item>
+        <item>2. Historic Chandragiri Fort is located in which of the following states?</item>
+        <item>3. Sabarimala is located in which of the following states?</item>
+        <item>4. The famous “Ganga Sagar Mela”, an annual fair is held in which state of India?</item>
+        <item>5. Ramman is a religious festival and ritual theatre of ____?</item>
+        <item>A. Mauritius and Malaysia_B. Malaysia and Indonesia_C. Sri Lanka and Mauritius_D. Sri Lanka and Singapore</item>
+        <item>A. Andhra Pradesh_B. Karnataka_C. Maharashtra_D. Telangana</item>
+        <item>A. Kerala_B. Karnataka_C. Andhra Pradesh_D. Telangana</item>
+        <item>A. Uttar Pradesh_B. Bihar_C. Jharkhand_D. West Bengal</item>
+        <item>A. Uttarkhand_B. Uttar Pradesh_C. West Bengal_D. Madhya Pradesh</item>
+        <item>D</item>
+        <item>A</item>
+        <item>A</item>
+        <item>D</item>
+        <item>A</item>
+    </string-array>
+
+    <string-array name="CurrentAffairs">
+        <item>1. What is the trade agreement expanded by the India - China recently?</item>
+        <item>2. India and this country agreed to work closely in various sectors, including security, nuclear energy, and disaster management.</item>
+        <item>3. India will organize Tagore Cultural Festival in Egypt to mark the ____ birth anniversary of Rabindranath Tagore.
+A. 156 B. 152 C. 165 D. 162</item>
+        <item>4. Which organization told the India growth will be 7.7 in 2018 - 2019?</item>
+        <item>5. India signed four agreements with this country including on air services and merchant shipping.</item>
+        <item>A. Preferential Trade Agreement(PTA)_B. Security Agreement_C. Cultural Agreement_D. Water resource agreement</item>
+        <item>A. Romania_B. Singapore_C. Sri Lanka_D. Russia</item>
+        <item>A. 156_B. 152_C. 165_D. 162</item>
+        <item>A. United Nations_B. International Monetary Fund_C. Financial Reporting Council_D. IFRS Foundation</item>
+        <item>A. Cuba_B. Cyprus_C. Colombia_D. Chile</item>
+        <item>A</item>
+        <item>D</item>
+        <item>A</item>
+        <item>B</item>
+        <item>B</item>
+    </string-array>
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.android.abhishekvats.Poochoon.Choice"
+    android:orientation="vertical"
+    android:background="@drawable/choice"
+    android:padding="5dp"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Select One Category"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:visibility="invisible"
+        android:layout_weight="1.5"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="History"
+        android:textSize="25sp"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:id="@+id/history"
+        android:onClick="clicked"
+        android:fontFamily="@font/arbutus"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sports"
+        android:textSize="25sp"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:id="@+id/sports"
+        android:onClick="clicked"
+        android:fontFamily="@font/arbutus"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chemistry"
+        android:textSize="25sp"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:id="@+id/chemistry"
+        android:onClick="clicked"
+        android:fontFamily="@font/arbutus"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Geography"
+        android:textSize="25sp"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:id="@+id/geography"
+        android:onClick="clicked"
+        android:fontFamily="@font/arbutus"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CurrentAffairs"
+        android:textSize="25sp"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:id="@+id/curaf"
+        android:onClick="clicked"
+        android:fontFamily="@font/arbutus"/>
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

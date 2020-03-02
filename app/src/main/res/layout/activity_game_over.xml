@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.android.abhishekvats.Poochoon.GameOver"
+    android:orientation="vertical"
+    android:background="@drawable/gameover"
+    >
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="200dp"
+        android:text="Score="
+        android:fontFamily="@font/arbutus"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        android:id="@+id/finalscore"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Correct Answers="
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@android:color/black"
+        android:fontFamily="@font/arbutus"
+        android:id="@+id/corans"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Wrong Answers="
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@android:color/black"
+        android:fontFamily="@font/arbutus"
+        android:id="@+id/wroans"/>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="20dp"
+        android:layout_marginTop="50dp">
+
+        <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Replay"
+           android:background="@drawable/homebuttons"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/arbutus"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            android:id="@+id/replay"
+            android:alpha="0.7"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Menu"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/homebuttons"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/arbutus"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            android:id="@+id/menu"
+            android:alpha="0.7"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/homebuttons"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/arbutus"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            android:alpha="0.7"/>
+
+
+
+       </LinearLayout>
+
+
+</LinearLayout>
